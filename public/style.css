@@ -1,0 +1,134 @@
+
+#wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: flex-start;
+
+    /* padding-top: 5%; */
+
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 100%;
+    margin-top: 5%;
+    /* border-style: dashed;
+    border-width: 2px;
+    border-color: red; */
+    border-radius: 10px;
+}
+
+#logo {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: flex-start;
+
+    width: 95%;
+    height: 18%;
+    /* border-style: dashed;
+    border-width: 2px;
+    border-color: blue; */
+    border-radius: 10px;
+    padding-bottom: 3%;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: flex-start;
+
+    width: 95%;
+    height: 50%;
+    /* border-style: dashed;
+    border-width: 2px;
+    border-color: green; */
+    border-radius: 10px;
+}
+
+#txtun, #txtps {
+    width: 95%;
+    height: 15%;
+    padding: 2%;
+    font-style: italic;
+    font-size: 48;
+    /* border-style: solid;
+    border-width: 1px;
+    border-color: grey; */
+    border-radius: 15px;
+    margin-top: 4%;
+    /* margin-bottom: 2%; */
+    background-color: rgb(243, 242, 242);
+}
+
+#login {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+
+    width: 95%;
+    height: 14%;
+    margin-top: 4%;
+    /* margin-bottom: 2%; */
+
+    /* border-style: solid;
+    border-width: 1px;
+    border-color: grey; */
+    border-radius: 10px; 
+
+    color: white;
+    font-size: 32;
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    background-color: rgb(129, 160, 255);
+}
+
+#fb {
+    color: white;
+    font-size: 32;
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#or {
+    color: rgb(214, 212, 212);
+    font-size: 48;
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#fp {
+    color: rgb(129, 160, 255);
+    font-size: 32;
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#cfb {
+    font-size: 32;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+#junks {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+
+    width: 92%;
+    height: 6%;
+    margin-top: 20px;
+    color: white;
+    
+    /* border-style: solid;
+    border-width: 1px;
+    border-color: grey; */
+    border-radius: 10px; 
+
+    font-size: 32;
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    background-color: rgb(129, 160, 255);
+}
